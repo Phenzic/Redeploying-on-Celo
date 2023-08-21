@@ -1,6 +1,5 @@
 
 # Introduction
-
 If you're looking to take advantage of the scalability and security of the Celo blockchain, you may be wondering how to redeploy your existing Ethereum DApp to Celo. Re-deploying your DApp to Celo can open up numerous opportunities, allowing you to tap into the growing Celo user base and take advantage of its unique features. 
 
 In this article, you will discuss how you can use Hardhat to redeploy your Ethereum DApp to Celo. We'll cover the Hardhat configuration needed to connect to Celo, the differences between deploying to Ethereum and Celo, and any other considerations you should keep in mind when re-deploying your DApp to Celo. 
